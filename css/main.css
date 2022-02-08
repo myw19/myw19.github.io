@@ -178,8 +178,8 @@ body {
   background: var(--body-bg-color);
   color: var(--text-color);
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
-  line-height: 2;
+  font-size: 0.8em;
+  line-height: 1.5;
 }
 @media (max-width: 991px) {
   body {
