@@ -16,7 +16,7 @@ header {
 }
 header .profileLogo .logoPlaceholder {
 	background-color: rgba(208,207,207,1.00);
-	width: 50px;
+	width: 187px;
 	text-align: left;
 }
 header .logoPlaceholder span {
@@ -30,9 +30,9 @@ header .logoPlaceholder span {
 }
 header .profilePhoto {
 	background-color: rgba(237,237,237,1.00);
-	width: 259px;
+	width: 138px;
 	border-radius: 50%;
-	height: 259px;
+	height: 138px;
 	clear: both;
 }
 header .profileHeader h1 {
