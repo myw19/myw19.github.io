@@ -11,13 +11,13 @@ body {
 }
 /* Header */
 header {
-	text-align: center;
+	text-align: left;
 	display: block;
 }
 header .profileLogo .logoPlaceholder {
 	background-color: rgba(208,207,207,1.00);
-	width: 187px;
-	text-align: center;
+	width: 50px;
+	text-align: left;
 }
 header .logoPlaceholder span {
 	width: 80px;
